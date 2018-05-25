@@ -1,2 +1,3 @@
-# mijn_project
-Voorbeeld werken met Githug
+# Mijn project
+
+Voorbeeld werken met Github
